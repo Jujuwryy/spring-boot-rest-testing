@@ -25,46 +25,4 @@ Response content validation
 HTTP status verification
 JSON path assertions
 
-Prerequisites
 
-Java 11 or higher
-Maven
-Your favorite IDE (IntelliJ IDEA, Eclipse, etc.)
-
-Getting Started
-Clone the repository:git clone https://github.com/Jujuwryy/spring-boot-book-api-testing.git
-
-Build the project:
-mvn clean install
-
-Run the tests:
-mvn test
-
-Project Structure
-src
-├── main
-│   ├── java
-│   │   └── com
-│   │       └── george
-│   │           └── restapitest
-│   │               ├── Book.java
-│   │               ├── BookController.java
-│   │               └── BookRepo.java
-│   └── resources
-└── test
-    └── java
-        └── com
-            └── george
-                └── restapitest
-                    └── BookControllerTest.java
-
-Test Examples
-The project includes examples of:
-
-GET endpoint testing
-Response body validation
-Collection size verification
-JSON property testing
-
-Contributing
-Feel free to fork the project and submit pull requests.
