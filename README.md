@@ -11,18 +11,18 @@ Repository mocking examples
 Technologies Used
 
 Spring Boot
-JUnit
-Mockito
-MockMvc
-Jackson for JSON processing
-Maven
+ / JUnit
+ / Mockito
+ / MockMvc
+ / Jackson for JSON processing
+ / Maven
 
 Testing Highlights
 
-Controller layer testing
-Repository mocking
-Response content validation
-HTTP status verification
-JSON path assertions
+ / Controller layer testing
+ / Repository mocking
+ / Response content validation
+ / HTTP status verification
+ / JSON path assertions
 
 
