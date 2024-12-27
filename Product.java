@@ -1,4 +1,3 @@
-package com.george.restapitest;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
