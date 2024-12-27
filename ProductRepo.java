@@ -1,4 +1,3 @@
-package com.george.restapitest;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
