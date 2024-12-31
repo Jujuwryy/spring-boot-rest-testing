@@ -1,6 +1,3 @@
-Here's the plain text version that you can directly copy and paste into your README.md file:
-
-```markdown
 # Spring Boot Product API Testing
 
 ## Overview
