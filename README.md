@@ -31,7 +31,7 @@ The project demonstrates key principles of test-driven development (TDD), mockin
 ### Installation Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/[username]/spring-boot-product-api-testing.git
+git clone https://github.com/Jujuwryy/spring-boot-product-api-testing.git
 ```
 
 2. Navigate to the project directory:
@@ -133,4 +133,4 @@ public void whenGetProducts_thenReturnsJsonArray() throws Exception {
 5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License 
